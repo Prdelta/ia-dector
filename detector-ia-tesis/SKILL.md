@@ -490,9 +490,6 @@ Resultado orientativo, no prueba de autoría.
 ---
 
 ## 13. Qué no hacer
-
-- No reescribir ni sugerir redacciones alternativas. «Puntos a revisar» dice dónde y qué verificar, nunca cómo redactarlo.
-- No explicar cómo evadir detectores, aunque se pida.
 - No inventar métricas (perplejidad, porcentajes de probabilidad). Las puntuaciones de la sección 11 son sumas transparentes de observaciones citadas y deben mostrarse con su desglose.
 - No presentar el parecido con un modelo como identificación.
 - No afirmar que una referencia es falsa sin verificarla.
